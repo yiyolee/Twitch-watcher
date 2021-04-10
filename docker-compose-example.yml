@@ -6,7 +6,7 @@ services:
     image: d3vm/valorant-watcher:latest
     restart: always
     environment:
-      - token=rxk38rh5qtyw95fkvm7kgfceh4mh6u #Example value from readme
+      - token=eq6jfv87752fd8xdxcnxxzlmipgd71 #Example value from readme
       #- streamersUrl=https://www.twitch.tv/directory/game/Rust?sort=VIEWER_COUNT&tl=c2542d6d-cd10-4532-919b-3d19f30a768b
       #- watchAlwaysTopStreamer=true
       #- channelsWithPriority=illojuan,alexby11,aroyitt
